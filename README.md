@@ -6,4 +6,4 @@ Displays the position and crew members of the ISS
 
 Use the API [open-notify.org](http://open-notify.org/) to retrieve the information
 
-Yes the html / CSS layout is ugly but that's the goal
+Yes the html / CSS layout is ugly but that's the goal I wanted a retro look
